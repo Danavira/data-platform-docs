@@ -6,7 +6,10 @@ Records of significant issues encountered while building or operating the platfo
 
 | # | Title | Date | Severity |
 |---|---|---|---|
-| [PM-001](pm-001-control-plane-node-rename.md) | Control plane node rename | — | — |
+| [PM-001](pm-001-control-plane-node-rename.md) | Control plane node rename | 2026-04-12 | High |
+| [PM-002](pm-002-airflow-oci-helm-repo-unreachable.md) | Airflow OCI Helm repo unreachable | 2026-04-12 | Medium |
+| [PM-003](pm-003-clickhouse-helm-docker-hub-403.md) | ClickHouse Helm chart 403 from Docker Hub OCI registry | 2026-04-14 | Medium |
+| [PM-004](pm-004-argocd-pod-exec-missing.md) | ArgoCD pod terminal exec missing from UI | — | Low |
 
 ## Template
 
