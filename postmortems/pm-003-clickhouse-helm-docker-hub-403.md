@@ -1,8 +1,8 @@
 # PM-003: ClickHouse Helm chart 403 from Docker Hub OCI registry
 
-**Date:** 2026-04-14
-**Severity:** Medium
-**Status:** Resolved
+**Date:** 2026-04-14    
+**Severity:** Medium    
+**Status:** Resolved    
 
 ## Problem Summary
 Attempts to fetch the ClickHouse Helm chart via Docker Hub's OCI registry resulted in `403 Forbidden` errors during ArgoCD synchronization.

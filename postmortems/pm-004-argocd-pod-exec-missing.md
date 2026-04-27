@@ -1,8 +1,8 @@
 # PM-004: ArgoCD pod terminal exec missing from UI
 
-**Date:** 2026-04-15
-**Severity:** Low
-**Status:** Resolved
+**Date:** 2026-04-15    
+**Severity:** Low    
+**Status:** Resolved    
 
 ## Problem Summary
 The pod terminal execution feature was missing from the ArgoCD UI, preventing direct debugging from the web console.

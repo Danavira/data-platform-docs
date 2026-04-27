@@ -1,8 +1,8 @@
 # PM-002: Airflow OCI Helm repo unreachable
 
-**Date:** 2026-04-12
-**Severity:** Medium
-**Status:** Resolved
+**Date:** 2026-04-12    
+**Severity:** Medium    
+**Status:** Resolved    
 
 ## Problem Summary
 The Airflow Helm chart was unreachable from within the cluster, preventing ArgoCD from syncing, even though the repository was accessible from my local machine.
