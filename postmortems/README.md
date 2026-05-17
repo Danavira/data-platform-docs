@@ -10,6 +10,8 @@ Records of significant issues encountered while building or operating the platfo
 | [PM-002](pm-002-airflow-oci-helm-repo-unreachable.md) | Airflow OCI Helm repo unreachable | 2026-04-12 | Medium |
 | [PM-003](pm-003-clickhouse-helm-docker-hub-403.md) | ClickHouse Helm chart 403 from Docker Hub OCI registry | 2026-04-14 | Medium |
 | [PM-004](pm-004-argocd-pod-exec-missing.md) | ArgoCD pod terminal exec missing from UI | — | Low |
+| [PM-005](pm-005-worker-to-worker-flannel-arp-failure.md) | Worker-to-worker flannel ARP incomplete | 2026-04-27 | Very High |
+| [PM-006](pm-006-airflow-control-plane-missing-worker-route.md) | Airflow migration jobs hanging — control-plane missing worker-1 flannel route | 2026-05-16 | High |
 
 ## Template
 
