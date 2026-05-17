@@ -4,11 +4,19 @@ ADRs record significant decisions made about the platform — what was decided, 
 
 ## Index
 
-| # | Title | Status |
-|---|---|---|
-| — | [ClickHouse deduplication strategy](adr-clickhouse-deduplication-strategy.md) | Accepted |
-| — | [Infisical for secrets management](adr-infisical-secrets-management.md) | Accepted |
-| — | [ArgoCD for GitOps deployment](adr-argocd-gitops-deployment.md) | Accepted |
+### Platform
+
+| Title | Status |
+|---|---|
+| [ArgoCD for GitOps deployment](platform/adr-argocd-gitops-deployment.md) | Accepted |
+| [Infisical for secrets management](platform/adr-infisical-secrets-management.md) | Accepted |
+| [Sandboxed container runtimes](platform/adr-sandboxed-container-runtimes.md) | Accepted |
+
+### Batch ELT
+
+| Title | Status |
+|---|---|
+| [ClickHouse deduplication strategy](batch-elt/adr-clickhouse-deduplication-strategy.md) | Accepted |
 
 ## Template
 
